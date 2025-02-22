@@ -10,7 +10,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: "group logging"
-                run: |
-                    echo "Hello"
-                    echo "World"
-            
+              run: |
+                echo "Hello"
+                echo "World"
